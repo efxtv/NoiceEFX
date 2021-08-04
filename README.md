@@ -1,4 +1,6 @@
-# NoiceEFX
+# NoiceEFX (Enable Noise and Echo cancellation in Linux headphones, webcam, mic using Pulse Audio noise cancellation tool. <a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew">Subscribe</a> 
+<a href="https://youtu.be/rHBVM2bnrPU"><img src="https://github.com/efxtv/NoiceEFX/blob/main/how%20to%20enable%20noise%20cancellation%20in%20Linux%20headphones%20using%20Pulse%20Audio%20to%20Fix%20Linux%20Sound.png" title="how to enable noise cancellation in Linux headphones using Pulse Audio to Fix Linux Sound by EFX TV" width="720"></a>
+
 
 Using NoiceEFX.sh this tool you can Enable noise and echo cancellation in your Linux machine. Follow the steps below.
 
@@ -26,14 +28,17 @@ Note: once you start the tool it will look for the PulseAudio tool. If it is not
 Step 1 Git clone the tool:
 git clone https://github.com/efxtv/NoiceEFX.git
 
-Step 2 Get inside NoiceEFX and provide execution permission
+Step 2 
+Get inside NoiceEFX and provide execution permission
 cd NoiceEFX.sh
 chmod 755 noiceefx.sh
 
-Step 3 Install
+Step 3 
+Install
 Install Activate and ForceActivate
 
-Step 4 Configure the Kazam or any screen recorder to get the noise cancellation feature.
+Step 4 
+Configure the Kazam or any screen recorder to get the noise cancellation feature.
 Go to Linux system settings 
 Select Sound Scroll down and search for Input
 Select the input as shown in the video.
