@@ -1,5 +1,5 @@
 # NoiceEFX (Enable Noise and Echo cancellation in Linux headphones, webcam, mic using Pulse Audio noise cancellation tool. <a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew">Subscribe</a> 
-<a href="https://youtu.be/rHBVM2bnrPU"><img src="https://github.com/efxtv/NoiceEFX/blob/main/how%20to%20enable%20noise%20cancellation%20in%20Linux%20headphones%20using%20Pulse%20Audio%20to%20Fix%20Linux%20Sound.png" title="how to enable noise cancellation in Linux headphones using Pulse Audio to Fix Linux Sound by EFX TV" width="720"></a>
+<a href="https://youtu.be/rHBVM2bnrPU"><img src="https://github.com/efxtv/NoiceEFX/blob/main/how%20to%20enable%20noise%20cancellation%20in%20Linux%20headphones%20using%20Pulse%20Audio%20to%20Fix%20Linux%20Sound2.png" title="how to enable noise cancellation in Linux headphones using Pulse Audio to Fix Linux Sound by EFX TV" width="720"></a>
 
 
 Using NoiceEFX.sh this tool you can Enable noise and echo cancellation in your Linux machine. Follow the steps below.
