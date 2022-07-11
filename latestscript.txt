@@ -1,0 +1,8 @@
+#save tave this command as nca in a directory $HOME/tools
+pulseaudio -k ; pulseaudio --start
+
+#Create a softlink for nca
+#sudo chmod +x $HOME/tools/nca;sudo ln -s $HOME/tools/nca /usr/bin
+
+#wget and move the file to the location /etc/pulse/default.pa
+#https://raw.githubusercontent.com/efxtv/NoiceEFX/main/default.pa
