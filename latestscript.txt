@@ -6,3 +6,10 @@ pulseaudio -k ; pulseaudio --start
 
 #wget and move the file to the location /etc/pulse/default.pa
 #https://raw.githubusercontent.com/efxtv/NoiceEFX/main/default.pa
+
+#Add alias in /etc/bash.bashrc
+nca() { 
+#sudo curl https://raw.githubusercontent.com/efxtv/NoiceEFX/main/default.pa >/etc/pulse/default.pa
+pulseaudio -k ; pulseaudio --start
+}
+
