@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Check if default.pa file exists in the current directory
+if [ -f "default.pa" ]; then
+    # If it exists, restart PulseAudio
+    pulseaudio -k
+    pulseaudio --start
+else
+    # If it doesn't exist, download it and copy to /etc/pulse/
+    wget https://raw.githubusercontent.com/efxtv/NoiceEFX/main/default.pa
+    sudo cp default.pa /etc/pulse/
+fi
